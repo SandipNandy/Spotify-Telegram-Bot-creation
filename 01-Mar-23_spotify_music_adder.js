@@ -105,6 +105,3 @@ module.exports = {
   addTrackFavorites,
   start,
 };
-
-
-// Can you tell me what is happening here
