@@ -5,8 +5,6 @@
 ##Address :- Bengalore, Karanataka          #
 #############################################
 
-
-
 import spotipy
 import spotipy.util as util
 
@@ -181,4 +179,4 @@ def main():
 if __name__ == "__main__":
     main()
     
-  # This project is music adder
+  
