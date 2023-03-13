@@ -4,7 +4,7 @@
  * Address :- Bangalore, Karnataka
  **/
 
-//Spotify Telegram Adder Bot
+
 
 const TelegramBot = require('node-telegram-bot-api');
 const { searchTracks, addTrackFavorites, start } = require('./spotify_music_adder');
