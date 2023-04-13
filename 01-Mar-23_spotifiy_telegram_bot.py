@@ -2,7 +2,7 @@
 ##Author :- Sandip Nandi                    #
 ##Creation Date :- 01-mar-23                #
 ##Address :- Bengalore, Karanataka          #
-## Spotify Telegram Bot Creation            #
+## Spotify Telegram Bot Creation.           #
 #############################################
 import logging
 
@@ -158,4 +158,4 @@ def main():
 if __name__ == '__main__':
     main()
     
- //Spotify Telegram bot
+ //Spotify Telegram bot.
