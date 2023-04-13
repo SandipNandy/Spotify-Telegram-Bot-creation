@@ -2,7 +2,7 @@
  * Author :- Sandip Nandi
  * Creation Date :- 01-March-23
  * Address :- Bangalore, Karnataka
- * Spotify Telegram Bot Creation bot
+ * Spotify Telegram Bot Creation bot.
  **/
 
 
@@ -108,4 +108,4 @@ module.exports = {
   start,
 };
 
-//Spotify Music Adder
+//Spotify Music Adder.
