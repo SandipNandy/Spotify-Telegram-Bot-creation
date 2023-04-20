@@ -5,7 +5,6 @@
 ##Address :- Bengalore, Karanataka          #
 ## Spotify Music Adder.                    #
 #############################################
-
 import spotipy
 import spotipy.util as util
 
