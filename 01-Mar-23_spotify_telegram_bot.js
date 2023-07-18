@@ -5,12 +5,11 @@
  * Spotify Telegram Bot.
  *
  ***/
+
 const TelegramBot = require('node-telegram-bot-api');
 const { searchTracks, addTrackFavorites, start } = require('./spotify_music_adder');
-
 const TOKEN = 'ENTER BOT TOKEN HERE';
 const USERID = 'ENTER YOUR USERID HERE AS INTEGER';
-
 function checkUser(bot, msg) {
   const { id } = msg.chat;
   if (id != USERID) {
