@@ -6,9 +6,7 @@
 ##                                          #
 #############################################
 
-
 import logging
-
 from telegram import ReplyKeyboardMarkup
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler
