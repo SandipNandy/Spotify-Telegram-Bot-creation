@@ -6,9 +6,10 @@
 ## Spotify Music Adder.                     #
 ##                                          #
 #############################################
-import spotipy
 
+import spotipy
 import spotipy.util as util
+
 
 """
 We need to export the following environemt variables in our Terminal
