@@ -3,7 +3,6 @@
 ##Creation Date :- 01-mar-23                #
 ##Address :- Bengalore, Karanataka          #
 ## Spotify Telegram Bot Creation            #
-##                                          #
 #############################################
 import logging
 from telegram import ReplyKeyboardMarkup
