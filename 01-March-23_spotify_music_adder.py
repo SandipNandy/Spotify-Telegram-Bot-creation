@@ -4,7 +4,6 @@
 ##Creation Date :- 01-mar-23                #
 ##Address :- Bengalore, Karanataka          #
 ## Spotify Music Adder.                     #
-##                                          #
 #############################################
 
 import spotipy
