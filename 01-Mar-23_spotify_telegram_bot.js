@@ -26,6 +26,7 @@ function checkUser(bot, msg) {
 
 async function setupTelegram(token) {
   // use polling unless you have a public server
+  
   const options = { polling: true };
 
   const bot = new TelegramBot(token, options);
