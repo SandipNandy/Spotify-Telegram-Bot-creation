@@ -13,6 +13,7 @@ const { searchTracks, addTrackFavorites, start } = require('./spotify_music_adde
 const TOKEN = 'ENTER BOT TOKEN HERE';
 
 const USERID = 'ENTER YOUR USERID HERE AS INTEGER';
+
 function checkUser(bot, msg) {
 
   
