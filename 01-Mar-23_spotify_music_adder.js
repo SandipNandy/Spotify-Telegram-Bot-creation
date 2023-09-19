@@ -1,10 +1,8 @@
 /***
- *
  * Author :- Sandip Nandi
  * Creation Date :- 01-March-23
  * Address :- Bangalore, Karnataka
  * Spotify Telegram Bot Creation bot.
- *
  ***/
 
 // npm install spotify-web-api-node express cors open prompt-sync
