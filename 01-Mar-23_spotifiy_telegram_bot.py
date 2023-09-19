@@ -19,6 +19,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # states for the conversation as ENUM
+
 SEARCH, ADD_TRACK = range(2)
 
 # Define a few command handlers. These usually take the two arguments update and
