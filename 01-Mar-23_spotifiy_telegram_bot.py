@@ -30,7 +30,6 @@ def start(update, context):
     user_id = update.message.from_user.id
 
     # trivial way to make sure only you can add new songs to your account
-  
     if user_id != 1034723625:
         logger.warning(f"User {user_id} was trying to start a conversation.")
         update.message.reply_text("Only the owner of this bot is allowed to add new songs to their playlist.")
