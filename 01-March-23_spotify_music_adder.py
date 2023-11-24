@@ -64,7 +64,6 @@ def reduce_track_information(track_list):
 
     return reduced_tracks
 
-
 def read_saved_tracks():
     """
     Get a list of tracks currently saved by the user
