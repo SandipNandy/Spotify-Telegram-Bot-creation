@@ -17,7 +17,6 @@ function checkUser(bot, msg) {
     bot.sendMessage(id, 'You are not allowed to use this Bot!');
     return false;
   }
-  
   return true;
 }
 
