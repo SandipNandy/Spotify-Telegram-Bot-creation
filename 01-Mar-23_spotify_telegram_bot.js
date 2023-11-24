@@ -13,7 +13,6 @@ const USERID = 'ENTER YOUR USERID HERE AS INTEGER';
 function checkUser(bot, msg) {
 
   const { id } = msg.chat;
-  
   if (id != USERID) {
     
     bot.sendMessage(id, 'You are not allowed to use this Bot!');
