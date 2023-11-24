@@ -12,7 +12,6 @@ const TOKEN = 'ENTER BOT TOKEN HERE';
 const USERID = 'ENTER YOUR USERID HERE AS INTEGER';
 function checkUser(bot, msg) {
 
-  
   const { id } = msg.chat;
   
   if (id != USERID) {
