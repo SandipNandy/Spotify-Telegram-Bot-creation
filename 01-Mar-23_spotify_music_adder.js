@@ -54,7 +54,6 @@ async function searchTracks(searchTerm) {
     name: track.name,
   }));
 }
-
 async function addTrackFavorites(id) {
   await api.addToMySavedTracks([id]);
 }
